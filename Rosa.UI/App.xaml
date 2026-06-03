@@ -1,0 +1,9 @@
+﻿<Application x:Class="Rosa.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Rosa.UI"
+             xmlns:converters="clr-namespace:Rosa.UI.Utilities.Converters">
+    <Application.Resources>
+        <converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+    </Application.Resources>
+</Application>
