@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Rosa.Core/Rosa.Core.csproj" />
+  <Project Path="Rosa.Data/Rosa.Data.csproj" Id="e1e0a8d6-1a83-46f5-b76b-6e5751abf625" />
+  <Project Path="Rosa.UI/Rosa.UI.csproj" />
+</Solution>
